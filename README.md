@@ -1,1 +1,1 @@
-# Martin
+# Java code sample
